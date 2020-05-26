@@ -10,21 +10,21 @@
     "id": 1,
     "imidUrl": "img/phones/motorola-xoom.0.jpg",
     "name": "MOTOROLA XOOM™",
-    "price": "12000",
+    "price": "14000",
     "snippet": "The Next, Next Generation\n\nExperience the future with MOTOROLA XOOM, the world's first tablet powered by Android 3.0 (Honeycomb)."
     },
     {
     "id": 2,
     "imidUrl": "img/phones/motorola-atrix-4g.0.jpg",
     "name": "MOTOROLA ATRIX™ 4G",
-    "price": "12000",
+    "price": "16000",
     "snippet": "MOTOROLA ATRIX 4G the world's most powerful smartphone."
     },
     {
     "id": 3,
     "imidUrl": "img/phones/dell-streak-7.0.jpg",
     "name": "Dell Streak 7",
-    "price": "12000",
+    "price": "17000",
     "snippet": "Introducing Dell™ Streak 7. Share photos, videos and movies together. It’s small enough to carry around, big enough to gather around."
     },
     {
@@ -45,7 +45,7 @@
     "id": 6,
     "imidUrl": "img/phones/nexus-s.0.jpg",
     "name": "Nexus S",
-    "price": "12000",
+    "price": "20000",
     "snippet": "Fast just got faster with Nexus S. A pure Google experience, Nexus S is the first phone to run Gingerbread (Android 2.3), the fastest version of Android yet."
     },
     {
@@ -59,7 +59,7 @@
     "id": 8,
     "imidUrl": "img/phones/samsung-galaxy-tab.0.jpg",
     "name": "Samsung Galaxy Tab™",
-    "price": "12000",
+    "price": "82000",
     "snippet": "Feel Free to Tab™. The Samsung Galaxy Tab™ brings you an ultra-mobile entertainment experience through its 7” display, high-power processor and Adobe® Flash® Player compatibility."
     },
     {
